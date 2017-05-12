@@ -28,3 +28,5 @@ Each redshift folder contains the following files:<br>
 &ndash; fit_iso.f18: Record of VPFIT iterations, ending with the parameters in fit_iso.f13 and including the parameter statistical uncertainties.<br>
 &ndash; MM_VPFIT_2013-11-10.dat: Copy of the atomic data file used by VPFIT from the <a href="https://github.com/MTMurphy77/MMatomdat">repository</a> associated with <a href="http://adsabs.harvard.edu/abs/2014MNRAS.438..388M">Murphy & Berengut (2014, MNRAS, 438, 388, arXiv:1311.2949)</a>.<br>
 &ndash; vp_setup.dat: The setup file for VPFIT used to run the fit in fit_iso.f13
+
+The other files in the top-level directory include a table of all 27 recent, distortion-correct/resistant measurements of alpha in quasar absorbers (tab_alpha_results.tex), and all files needed to produce the plots in the paper (plus a couple that were not included) via the ipython notebook "plots_for_paper.ipynb".
