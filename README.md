@@ -1,5 +1,5 @@
 # alpha_Subaru_2017
-<a href="https://doi.org/10.5281/zenodo.158755"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.158755.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.574904"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.574904.svg" alt="DOI"></a>
 <!---
 <a href="https://zenodo.org/badge/latestdoi/20001/MTMurphy77/alpha_Subaru_2017"><img src="https://zenodo.org/badge/20001/MTMurphy77/alpha_Subaru_2017.svg" alt="10.5281/zenodo.XXXXX"></a>
 --->
@@ -11,7 +11,7 @@ Quasar spectra and absorption profile fits associated with Murphy &amp; Cooksey 
 
 Read this README, and view/download/use the files within this repository, in conjunction with a careful read of the paper itself.
 
-If you use any of the materials in this repository, please cite the paper. If you want to cite only the data and/or fits (for some reason), please use the DOI: <a href="https://doi.org/10.5281/zenodo.158755"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.158755.svg" alt="DOI"></a>
+If you use any of the materials in this repository, please cite the paper. If you want to cite only the data and/or fits (for some reason), please use the DOI: <a href="https://doi.org/10.5281/zenodo.574904"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.574904.svg" alt="DOI"></a>
 
 The paper is available at the following websites, in published or pre-print form:<br>
 &ndash; arXiv.org: TBD<br>
