@@ -4,7 +4,7 @@
 <a href="https://zenodo.org/badge/latestdoi/20001/MTMurphy77/alpha_Subaru_2017"><img src="https://zenodo.org/badge/20001/MTMurphy77/alpha_Subaru_2017.svg" alt="10.5281/zenodo.XXXXX"></a>
 --->
 
-Quasar spectra and absorption profile fits associated with Murphy &amp; Cooksey (2017, MNRAS, submitted)
+Quasar spectra and absorption profile fits associated with Murphy &amp; Cooksey (2017, MNRAS, accepted)
 <!---
 <a href="http://dx.doi.org/10.1093/mnras/stw1482">doi:10.5281/zenodo.51504</a>, <a href="http://arxiv.org/abs/1606.06293">arXiv:1606.06293</a>
 -->
@@ -14,9 +14,9 @@ Read this README, and view/download/use the files within this repository, in con
 If you use any of the materials in this repository, please cite the paper. If you want to cite only the data and/or fits (for some reason), please use the DOI: <a href="https://doi.org/10.5281/zenodo.574904"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.574904.svg" alt="DOI"></a>
 
 The paper is available at the following websites, in published or pre-print form:<br>
-&ndash; arXiv.org: TBD<br>
-&ndash; MNRAS (via DOI): TBD<br>
-&ndash; NASA/ADS: TBD<br>
+&ndash; arXiv.org: <a href="https://arxiv.org/abs/1708.00014">arxiv.org/abs/1708.00014</a><br>
+&ndash; MNRAS (via DOI): <a href="https://doi.org/10.1093/mnras/stx1949">10.1093/mnras/stx1949</a><br>
+&ndash; NASA/ADS: <a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1708.00014">2017arXiv170800014M</a> (to be updated once final version is published)<br>
 
 This repository contains a folder for each quasar, named using the quasar name (used in the paper), i.e. J0120+2133 and J1944+7705.
 
